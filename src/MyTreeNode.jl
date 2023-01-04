@@ -1,5 +1,6 @@
 module MyTreeNode
 
-# Write your package code here.
+export TreeNode, mergetree, _mergetree, mergetree!, appendtree!, IDTree,  
+include("treenode.jl")
 
 end

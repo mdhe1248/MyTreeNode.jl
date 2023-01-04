@@ -3,6 +3,9 @@ uuid = "a14f1419-5400-4e44-9f4a-b29412dda653"
 authors = ["Donghoon Lee <mdhe1248@gmail.com> and contributors"]
 version = "0.1.0"
 
+[deps]
+AbstractTrees = "1520ce14-60c1-5f80-bbc7-55ef81b5835c"
+
 [compat]
 julia = "1"
 
